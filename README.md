@@ -1,2 +1,2 @@
-# Anjali
+# Anjali Gym
 Gym website
